@@ -159,5 +159,5 @@ Created by [@sarthak815](https://www.github.com/sarthak815) - feel free to conta
 
 
 ## License
- This project is open source and available under the [MIT License](). 
+ This project is open source and available under the [MIT License](https://raw.githubusercontent.com/sarthak815/Library-Management-System/main/LICENSE). 
 

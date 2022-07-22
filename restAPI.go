@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Task5-Library_Management_System/codeModules"
 	"bytes"
+	"codeModules"
 	"encoding/gob"
 	"encoding/json"
 	"fmt"

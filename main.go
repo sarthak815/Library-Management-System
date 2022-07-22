@@ -1,8 +1,8 @@
 package main
 
 import (
-	"Task5-Library_Management_System/codeModules" //Importing all the code modules
 	"bufio"
+	"codeModules" //Importing all the code modules
 	"fmt"
 	badger "github.com/dgraph-io/badger/v3"
 	"log"
@@ -11,7 +11,7 @@ import (
 
 var lib codeModules.Library
 var db *badger.DB
-
+go
 func main() {
 
 	scanner := bufio.NewScanner(os.Stdin)

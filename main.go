@@ -2,16 +2,16 @@ package main
 
 import (
 	"bufio"
-	"codeModules" //Importing all the code modules
 	"fmt"
 	badger "github.com/dgraph-io/badger/v3"
+	"github.com/sarthak815/Library-Management-System/codeModules" //Importing all the code modules
 	"log"
 	"os"
 )
 
 var lib codeModules.Library
 var db *badger.DB
-go
+
 func main() {
 
 	scanner := bufio.NewScanner(os.Stdin)
